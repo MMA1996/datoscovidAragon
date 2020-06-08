@@ -1,0 +1,7 @@
+﻿categoria,n_total_camas,n_ocupadas_covid,n_ocupadas_no_covid,n_ingresoscovid_24h,n_altas_covid_24h
+CAMAS en unidades críticas CON respirador ,198,7,79,1,0
+CAMAS en unidades críticas SIN respirador,25,0,4,0,0
+CAMAS en hospitalización convencional,"4,072",59,"2,110",5,2
+TOTAL RECURSOS     ,"4,295",66,"2,193",6,2
+CAMAS en hospitalización a domicilio,30,0,14,0,0
+,,,,,
