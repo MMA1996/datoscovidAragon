@@ -1,4 +1,4 @@
-﻿"grupo_edad",sexo,confirmados,hospitalizados_totales,ptg_hospitalizados_totales,uci,ptg_uci,,,,,,,,,,,,
+﻿grupo_edad,sexo,confirmados,hospitalizados_totales,ptg_hospitalizados_totales,uci,ptg_uci,,,,,,,,,,,,
 0-9,ambos,28,3,0.11%,1,0.38%,,,,,,,,,,,,
 10-19,ambos,44,3,0.11%,0,0.00%,,,,,,,,,,,,
 20-29,ambos,342,29,1.11%,1,0.38%,,,,,,,,,,,,
